@@ -3,7 +3,17 @@ A Software Engineering Student and aspiring Game Developer passionate about crea
 
 ## 🚀 Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,unreal,cmake,qt,git,githubactions,arch,linux&perline=4)](https://skillicons.dev)
+<div align="center">
+    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white"/>
+    <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white"/>
+</div>
+<div align="center">
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</div>
 
 ## 🎮 Interests
 
@@ -14,8 +24,10 @@ A Software Engineering Student and aspiring Game Developer passionate about crea
 
 ## 🔗 Connect with me
 
-* Email: [afshari88mmdamir@gmail.com](mailto:afshari88mmdamir@gmail.com)
-* Linkedin: [Mohammad Amir Afshari](https://www.linkedin.com/in/mohammad-amir-afshari-b5989433a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afshari88mmdamir@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-amir-afshari-b5989433a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199105288490/)
+
 
 ## 📊 GitHub Stats
 
